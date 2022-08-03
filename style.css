@@ -1,8 +1,38 @@
 body{
-    background: #fff;
+    background: black;
+}
+/* header */
+
+.header{
+    text-align: center;
 }
 
- main .title {
-    font-size: 20px;
+#banner{
+    width: 10%;
+    width: 400px;
+}
+
+.margin{ 
+    margin: 10%;
+    padding: 10 10 10 10;
+        
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    background: #ce1d4a;
+}
+
+nav ul li {
+    list-style-type: none;
+}
+
+a{
+    font-size: 50px;
+    color: aliceblue;
+    text-transform: uppercase;
+    text-decoration: none;
     
 }
+
