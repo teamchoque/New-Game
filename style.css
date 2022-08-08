@@ -1,5 +1,18 @@
 body{
     background: black;
+    height: 400vh;
+}
+
+::-webkit-scrollbar{
+    width: 20px;
+}
+
+::-webkit-scrollbar-track{
+    background: #ce1d4a;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #000000;
 }
 /* header */
 
@@ -10,6 +23,26 @@ body{
 #banner{
     width: 10%;
     width: 400px;
+}
+
+img{
+    max-width: 640px;
+    transform: translateY(opx);
+    animation: float 5s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-30px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
 }
 
 .margin{ 
@@ -33,6 +66,11 @@ a{
     color: aliceblue;
     text-transform: uppercase;
     text-decoration: none;
-    
+
 }
 
+/* main */
+
+main{
+    color: aliceblue;
+}
