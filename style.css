@@ -1,3 +1,11 @@
+* {
+    margin: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background: black;
     height: 400vh;
@@ -14,17 +22,15 @@ body{
 ::-webkit-scrollbar-thumb{
     background: #000000;
 }
+
 /* header */
 
-.header{
-    text-align: center;
+.logogames {
+    width: 190px;  
 }
 
-#banner{
-    width: 500px;
-}
 
-.header img{
+ nav .logogames {
     max-width: 640px;
     transform: translateY(opx);
     animation: float 5s ease-in-out infinite;
@@ -32,34 +38,44 @@ body{
 
 @keyframes float {
     0% {
-        transform: translateY(0px);
+        transform: translateX(0px);
     }
 
     50% {
-        transform: translateY(-30px);
+        transform: translateX(-30px);
     }
 
     100% {
-        transform: translateY(0px);
+        transform: translateX(0px);
     }
 }
 
-.menu{ 
-    
-    border: solid 4px #ffffff;
-	border-radius: 20px;
-    
+nav ul{
+    list-style: none;
+    align-items: block;
+    overflow: hidden;
+    position: fixed;
+    justify-content: space-around;
+    background-color: #ce1d4a;
+    height: 150px;     
+    width: 100%;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-ul{
-    display: flex;
-    justify-content: space-between;
-    background: #ce1d4a;
+nav a{
+    float: right;
+    display: block;
+    padding: 10px 16px;
+    margin-right: 5%;
+    margin-top: 2rem;
+   
 }
 
-nav ul li {
-    list-style-type: none;
-    
+nav .logogames {
+    float: left;
+    display: block;
+    margin-left: 10%;
+   
 }
 
 a{
@@ -71,12 +87,29 @@ a{
 
 }
 
+nav a:hover{
+   transition: 0.5s;
+   background-color: #000000;
+   color: #ce1d4a;
+   
+}
+
 /* main */
 
 main{
     color: aliceblue;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   
+}
+
+section{
+    min-height: 100vh;
+    padding-top: 2rem;
+    margin-top: 10% 10%;
+}
+
+#sobre {
+    background-color: #ce1d4a;
 }
 
 .titulos {
@@ -102,6 +135,10 @@ h1 {
     margin-left: 10%;
     float: left;
     
+}
+
+#games {
+    background-color: #000000;
 }
 
 .discrition-batatinha-frita{
@@ -169,3 +206,12 @@ h1 {
     margin-left: 10%;
     float: left;
 }
+
+#contato {
+    background-color: #ce1d4a;
+}
+
+/* footer */
+
+
+
