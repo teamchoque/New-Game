@@ -1,16 +1,18 @@
 #README
+  
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/90795873/184522443-64947d45-a60c-4453-adb9-c772303f9f68.png" width="400px"/>
+</div>
 
-  <p align="center">New Game</p>
 
   <p aligh="center">
     <a href="#sobre">Sobre</a> .
     <a href="#tecnologias">Tecnologias</a> .
-    <a href="#pre-requisitos">Pre-requisitos</a> .
     <a href="#autor">Autor</a> .
   
   <br>
     <h4 align="center">
-        projeto em construção 
+        .
     </h4>
 
    ###  Features
@@ -22,33 +24,21 @@
     - [X] Criar footer
     - [X] Criar layout
     - [X] Criar style
+    - [X] Criar imagens 
+    - [X] Criar animação
+    
 
    # Sobre
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
+   <p>Esse um dos meus projetos para meu portifolio,</p> 
+   <p>agradeço se puderem dar um feedback para meu desenvolvimento profissional.</p> 
+   
 
    # Tecnologias
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-
-   # Pré-requisitos
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-   <p>A</p> 
-
+   <p>HTML</p> 
+   <p>CSS</p> 
+   
    # Autor
-   <p>A</p> 
+   <p>Michael ROMERO</p> 
    
 
     
