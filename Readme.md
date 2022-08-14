@@ -1,68 +1,57 @@
-  #REAME
+#README
 
-  <p align="center">Esse projeto</p>
+  <p align="center">New Game</p>
 
   <p aligh="center">
-    **<a href="#sobre">Sobre</a> .**
-    **<a href="#roadmap">Roadmap</a> .**
-    **<a href="#tecnologias">Tecnologias</a> .**
-    **<a href="#pre-requisitos">Pre-requisitos</a> .**
-    **<a href="#licença">Licenças</a> .**
-    **<a href="#autor">Autor</a> .**
+    <a href="#sobre">Sobre</a> .
+    <a href="#tecnologias">Tecnologias</a> .
+    <a href="#pre-requisitos">Pre-requisitos</a> .
+    <a href="#autor">Autor</a> .
   
-  
-  
-  
-  
-  
-  Definição de etapas:
-                
-        Definição de layouts
-    
-        Definição de conteúdo de títulos e parágrafos
+  <br>
+    <h4 align="center">
+        projeto em construção 
+    </h4>
 
-        Definição de logo
+   ###  Features
+
+    - [X] Criar titulo
+    - [X] Criar descrição
+    - [X] Criar header
+    - [X] Criar main
+    - [X] Criar footer
+    - [X] Criar layout
+    - [X] Criar style
+
+   # Sobre
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+
+   # Tecnologias
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+
+   # Pré-requisitos
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+   <p>A</p> 
+
+   # Autor
+   <p>A</p> 
+   
+
     
-        Definição de imagens
-    
-             
-        [] Página principal
-            [] HTML
-                [] header com logo e conteúdos com listas clicáveis para 3 páginas.
-                [] main colocar uma imagem de uma loja com a historia.
-                [] footer com logo com discrição. 
-            [] CSS
-    
-        [] Primeira página do header
-            [] Imagens.
-            [] Conteúdo com imagens, títulos e parágrafos.
-            [] footer com logo.
-    
-        [] CSS
-    
-        [] Segunda e terceira página do header
-            [] Galeria com imagens com 3 produtos de cada com a descrição de baixo.
-    
-        [] CSS
-    
-        [] Quarta página do header
-            [] Contato
-            [] Redes Sociais 
-                   
-        [] CSS
-    
-        [] Primeira página do main [] Imagem [] Títulos e parágrafos
-    
-        [] CSS
-    
-        [] Segunda página do main [] Imagem [] Títulos e parágrafos
-    
-        [] CSS
-    
-        [] Terceira página do main [] Imagem [] Títulos e parágrafos
-    
-        [] CSS
-    
-        [] Quarta página do main [] Imagem [] Títulos e parágrafos
-    
-        [] CSS
+  <h1 align="center">
+   <img alt="Readme title="Readme" src="./github/Readme-gif.gif" />  
+  </h1>  
